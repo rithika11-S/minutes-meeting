@@ -1,0 +1,8 @@
+openai-whisper
+ollama
+python-dotenv
+requests
+streamlit
+markdown
+xhtml2pdf
+groq
